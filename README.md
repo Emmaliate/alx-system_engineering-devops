@@ -1,2 +1,3 @@
 #!/bin/bash
-May God help me see this course through as i Do hard things
+prints “Hello, World”, followed by a new line to the standard output
+
